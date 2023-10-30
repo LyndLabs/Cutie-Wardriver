@@ -1,0 +1,69 @@
+(footprint "MOUDLE14P-SMD-2.54-21X17.8MM" (version 20221018) (generator pcbnew)
+  (layer "F.Cu")
+  (attr through_hole)
+  (fp_text reference "REF**" (at 9.3345 -21.7805) (layer "F.SilkS") hide
+      (effects (font (size 0.7 0.7) (thickness 0.15)))
+    (tstamp 2bfe55b2-c246-4346-a000-5e92fa645b21)
+  )
+  (fp_text value "MOUDLE14P-SMD-2.54-21X17.8MM" (at -0.29 -0.19) (layer "F.Fab") hide
+      (effects (font (size 0.48 0.48) (thickness 0.15)))
+    (tstamp d10d85a2-030e-441a-be27-8f8c03ba6409)
+  )
+  (fp_line (start -8.89 7.787) (end -8.89 -7.787)
+    (stroke (width 0.2) (type solid)) (layer "F.SilkS") (tstamp f4d79c28-cee2-42f4-9ba8-dadd6422d346))
+  (fp_line (start -6.39 -10.287) (end 6.39 -10.287)
+    (stroke (width 0.2) (type solid)) (layer "F.SilkS") (tstamp fc77b1ed-f22e-42e6-b0f1-1292d803f451))
+  (fp_line (start -4.5 4.937) (end 4.5 4.937)
+    (stroke (width 0.2) (type solid)) (layer "F.SilkS") (tstamp 904bc9c5-c77f-4ab6-a8af-6681d49eeb5f))
+  (fp_line (start -4.5 10.287) (end -6.39 10.287)
+    (stroke (width 0.2) (type solid)) (layer "F.SilkS") (tstamp 5adc32bf-f7e8-4a80-a9d1-eda8afd5d535))
+  (fp_line (start -4.5 12.287) (end -4.5 4.937)
+    (stroke (width 0.2) (type solid)) (layer "F.SilkS") (tstamp dc99dd01-1d3d-4d12-9a40-7295de395627))
+  (fp_line (start 4.5 4.937) (end 4.5 12.287)
+    (stroke (width 0.2) (type solid)) (layer "F.SilkS") (tstamp 88e364ba-dfb0-4c7f-a1b4-e587405866ce))
+  (fp_line (start 4.5 12.287) (end -4.5 12.287)
+    (stroke (width 0.2) (type solid)) (layer "F.SilkS") (tstamp 3e32f858-f556-4521-9826-1759b390adb8))
+  (fp_line (start 6.39 10.287) (end 4.5 10.287)
+    (stroke (width 0.2) (type solid)) (layer "F.SilkS") (tstamp c0a1d4d9-aed3-4ab8-aa58-60810dfd63d1))
+  (fp_line (start 8.89 -7.787) (end 8.89 7.787)
+    (stroke (width 0.2) (type solid)) (layer "F.SilkS") (tstamp eb66912c-9a86-4eef-8608-b4d2bf1e3290))
+  (fp_arc (start -8.89 -7.787) (mid -8.157767 -9.554767) (end -6.39 -10.287)
+    (stroke (width 0.2) (type solid)) (layer "F.SilkS") (tstamp 559c721b-5041-495b-9b4e-69af65fe2eb7))
+  (fp_arc (start -6.39 10.287) (mid -8.157767 9.554767) (end -8.89 7.787)
+    (stroke (width 0.2) (type solid)) (layer "F.SilkS") (tstamp 5fa5f4f9-6add-4d1f-a2e5-65bdd32ca7be))
+  (fp_arc (start 6.39 -10.287) (mid 8.157767 -9.554767) (end 8.89 -7.787)
+    (stroke (width 0.2) (type solid)) (layer "F.SilkS") (tstamp 1010c9ad-591b-40e5-9da9-9eb1f6eba775))
+  (fp_arc (start 8.89 7.787) (mid 8.157767 9.554767) (end 6.39 10.287)
+    (stroke (width 0.2) (type solid)) (layer "F.SilkS") (tstamp 0a089164-9d4f-4352-84be-a02e24a1d7ff))
+  (pad "1" smd oval (at 8.98 7.62 90) (size 2 3.5) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 7572284f-f7b6-4182-9fa8-14cb5e6a19bc))
+  (pad "2" smd oval (at 8.98 5.08 90) (size 2 3.5) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 7fd17295-54eb-47c8-b972-7bbcda242ce4))
+  (pad "3" smd oval (at 8.98 2.54 90) (size 2 3.5) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp f1d8ca88-1393-4762-819f-bec7b47e0da0))
+  (pad "4" smd oval (at 8.98 0 90) (size 2 3.5) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 8edd5afb-66d6-4068-b657-2823851c3542))
+  (pad "5" smd oval (at 8.98 -2.54 90) (size 2 3.5) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 2d64e385-1b59-491f-bf97-c1ad003aba50))
+  (pad "6" smd oval (at 8.98 -5.08 90) (size 2 3.5) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp cd895385-221e-4e63-8c33-e23afaf31317))
+  (pad "7" smd oval (at 8.98 -7.62 90) (size 2 3.5) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 3164bea8-6320-4eac-be03-8ac4de5fd3d9))
+  (pad "8" smd oval (at -8.8 -7.62 90) (size 2 3.5) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 00beac1a-fddd-49b0-8868-344f7a24540d))
+  (pad "9" smd oval (at -8.8 -5.08 90) (size 2 3.5) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 2e2a9c18-04ea-4136-8307-e88d47a70f7b))
+  (pad "10" smd oval (at -8.8 -2.54 90) (size 2 3.5) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp a997b81c-c03a-40cb-96fa-b20f9e9bd7bb))
+  (pad "11" smd oval (at -8.8 0 90) (size 2 3.5) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 16447686-b1c7-4f0a-8535-b159e186eb67))
+  (pad "12" smd oval (at -8.8 2.54 90) (size 2 3.5) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 25c06652-3250-4a9c-9421-a87a0d29ce17))
+  (pad "13" smd oval (at -8.8 5.08 90) (size 2 3.5) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 1bf8b4b4-7128-4061-8832-e9edd575844f))
+  (pad "14" smd oval (at -8.8 7.62 90) (size 2 3.5) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp ea3b496e-d242-47ab-82f0-6393a75b0c23))
+  (group "" (id 9fbbc883-c9d7-406e-9a03-799cd00fcc4d)
+    (members
+      0a089164-9d4f-4352-84be-a02e24a1d7ff
+      1010c9ad-591b-40e5-9da9-9eb1f6eba775
+      3e32f858-f556-4521-9826-1759b390adb8
+      559c721b-5041-495b-9b4e-69af65fe2eb7
+      5adc32bf-f7e8-4a80-a9d1-eda8afd5d535
+      5fa5f4f9-6add-4d1f-a2e5-65bdd32ca7be
+      88e364ba-dfb0-4c7f-a1b4-e587405866ce
+      904bc9c5-c77f-4ab6-a8af-6681d49eeb5f
+      c0a1d4d9-aed3-4ab8-aa58-60810dfd63d1
+      dc99dd01-1d3d-4d12-9a40-7295de395627
+      eb66912c-9a86-4eef-8608-b4d2bf1e3290
+      f4d79c28-cee2-42f4-9ba8-dadd6422d346
+      fc77b1ed-f22e-42e6-b0f1-1292d803f451
+    )
+  )
+)
