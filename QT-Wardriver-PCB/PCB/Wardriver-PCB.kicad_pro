@@ -34,9 +34,9 @@
         "other_text_thickness": 0.15,
         "other_text_upright": false,
         "pads": {
-          "drill": 1.0,
+          "drill": 0.0,
           "height": 1.8,
-          "width": 1.8
+          "width": 1.2
         },
         "silk_line_width": 0.15,
         "silk_text_italic": false,
@@ -176,6 +176,7 @@
         0.25,
         0.4,
         0.6,
+        0.7,
         1.0
       ],
       "via_dimensions": [
@@ -457,7 +458,7 @@
       "idf": "",
       "netlist": "",
       "specctra_dsn": "",
-      "step": "",
+      "step": "Wardriver-PCB.step",
       "vrml": ""
     },
     "page_layout_descr_file": ""
