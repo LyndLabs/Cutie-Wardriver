@@ -1,4 +1,4 @@
-20120521834841022
+20122230853362698
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -74794,6 +74794,13 @@ TO-264-5 Vertical RM 3.81mm
 0
 5
 5
+PicoCharge
+MiniMeter
+
+
+0
+8
+8
 Potentiometer_SMD
 Potentiometer_ACP_CA6-VSMD_Vertical
 Potentiometer, vertical, ACP CA6-VSMD, http://www.acptechnologies.com/wp-content/uploads/2017/06/01-ACP-CA6.pdf
@@ -85621,8 +85628,8 @@ LiPo Backpack
 
 
 0
-5
-5
+8
+8
 Wardriver-Footprints
 MOUDLE14P-SMD-2.54-21X17.8MM
 
